@@ -3,8 +3,9 @@
 [![N|Solid](http://s6.picofile.com/file/8391972092/z.png)](https://ramazi.ir)
 
 keras implementation of paper: Feature Generating Networks for Zero-Shot Learning
-
-[![N|Solid](http://s11.picofile.com/file/8392821950/picture.png)](https://ramazi.ir)
+<p align="center">
+  <img src="http://s11.picofile.com/file/8392821950/picture.png">
+</p>
 
 # Datasets
 ##### Original files
